@@ -1,4 +1,4 @@
-# 🚀 TradeCheck – Crypto Portfolio Tracker (2023)
+# 🚀 TradeCheck – Crypto Portfolio Tracker 
 
 A full-stack cryptocurrency portfolio management platform built with **Java**, **Spring Boot**, **MySQL**, and **React.js**. TradeCheck provides users with a secure, real-time dashboard to monitor, track, and optimize their crypto holdings.
 
