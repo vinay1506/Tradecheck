@@ -33,12 +33,6 @@ A full-stack cryptocurrency portfolio management platform built with **Java**, *
 
 ---
 
-## 📸 Demo Screenshots
-
-> _(Insert screenshots or screen recording of your app here – e.g., login page, dashboard, chart view, etc.)_
-
----
-
 ## 🛠️ Installation & Setup
 
 ### Backend (Spring Boot)
